@@ -1,13 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0C447C,100:185FA5&text=Minjun%20Ji&fontSize=42&fontColor=E6F1FB&fontAlign=50&fontAlignY=30&desc=Computer%20Science%20%26%20AI%20%7C%20Backend%20%C2%B7%20Product%20%C2%B7%20AI&descSize=15&descColor=B5D4F4&descAlign=50&descAlignY=47" />
-</div>
-
-<br>
-
-<div align="center">
-
-`동국대학교 컴퓨터AI학부  ·  Backend  ·  Product  ·  AI`
-
+  <img src="./github-header.png" width="100%" alt="JIBBITZ404 GitHub Header" />
 </div>
 
 <br>
